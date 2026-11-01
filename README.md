@@ -63,7 +63,7 @@ Every response from the model is validated against a Pydantic schema before it i
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/doc2json.git
+git clone https://github.com/Maria-Chaudhary/doc2json.git
 cd doc2json
 
 python -m venv .venv
