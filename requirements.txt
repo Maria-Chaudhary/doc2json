@@ -1,0 +1,10 @@
+gradio>=5.0
+google-genai
+pydantic>=2.7
+python-dotenv
+pymupdf
+python-docx
+python-pptx
+openpyxl
+beautifulsoup4
+striprtf
